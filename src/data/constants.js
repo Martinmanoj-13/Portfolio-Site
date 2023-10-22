@@ -8,7 +8,7 @@ export const Bio = {
     "Enthusiastic and motivated Frontend Developer eager to kickstart a career in web development with a strong foundation in React.js. Committed to delivering exceptional user experiences and responsive web applications.",
   github: "https://github.com/Martinmanoj-13",
   resume:
-    "https://publuu.com/flip-book/271494/642720",
+    "https://publuu.com/flip-book/271494/645618",
   linkedin: "https://www.linkedin.com/in/martinmanoj13/",
   insta: "https://www.instagram.com/m_a_r_t_i_n_46/",
   
